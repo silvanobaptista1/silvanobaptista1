@@ -1,4 +1,4 @@
-<h1>Hi, I'm Silvano!<br/><a href="https://github.com/silvanobaptista1">Researcher</a>, <a href="https://www.linkedin.com/in/silvanobaptista/">Cybersecurity Professional</a> 
+<h1>Hi, I'm Silvano! I Love Everything Cybersecurity!<br/><a href="https://github.com/silvanobaptista1">Researcher</a>, <a href="https://www.linkedin.com/in/silvanobaptista/">Cybersecurity Professional</a> 
   
 <h2>👨‍💻 Azure Cloud Security Projects:</h2>
 
