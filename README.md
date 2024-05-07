@@ -1,4 +1,4 @@
-<h1>Hi, I'm Silvano! <br/><a href="https://github.com/silvanobaptista1">Researcher</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Silvano! <br/><a href="https://github.com/silvanobaptista1">Researcher</a>, <a href="https://www.linkedin.com/in/silvanobaptista/">Cybersecurity Professional</a>, 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
