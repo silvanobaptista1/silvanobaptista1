@@ -13,8 +13,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/cyberpro
-[youtube]: https://www.youtube.com/c/cyberpro
+[twitter]: https://twitter.com/silvanocyberpro
+[youtube]: https://www.youtube.com/c/silvanocyberpro
 [instagram]: https://www.instagram.com/silvanocyberpro/
 [linkedin]: https://linkedin.com/in/silvanobaptista
 
