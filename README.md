@@ -3,7 +3,7 @@
 <h2>👨‍💻 Azure Cloud Security Projects:</h2>
 
 - <b> Azure/ Cloud Projects </b>
-  - [Created a Live Honey Net, Connected it to SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Created a Live Honey Net in Azure](https://github.com/silvanobaptista1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
