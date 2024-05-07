@@ -1,4 +1,4 @@
-<h1>Hi, I'm Silvano! <a href="https://www.linkedin.com/in/silvanobaptista/">Cybersecurity Professional</a> 
+<h1>Hi, I'm Silvano! <a href="https://www.linkedin.com/in/silvanobaptista/">Cybersecurity Anaylst</a> 
   
 <h2>👨‍💻 Azure Cloud Security Projects:</h2>
 
